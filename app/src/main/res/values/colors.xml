@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e4060d</color>
+    <color name="colorPrimaryDark">#cc181e</color>
+    <color name="colorAccent">#f1f1f1</color>
+    <color name="colorDark">#760004</color>
+
+    <color name="c_pink">#fe316c</color>
+    <color name="c_pink2">#E91E63</color>
+    <color name="c_orange">#ff6d63</color>
+    <color name="c_yellow">#fec252</color>
+
+    <color name="grey">#666666</color>
+    <color name="grey2">#888888</color>
+    <color name="light_grey">#DDD6D6</color>
+    <color name="blue">#2793e8</color>
+    <color name="green">#559900</color>
+
+    <color name="color_headers_maroon">#4B0000</color>
+    <color name="back_button_color">#5E5E5E</color>
+    <color name="my_chat_bubble_bg">#E6E6E6</color>
+    <color name="not_my_chat_bubble_bg">#9ac4e7</color>
+    <color name="divider_color">#dddddd</color>
+    <color name="facebook_color">#3b5998</color>
+
+    <!--Search bar main activity-->
+    <color name="search_bar_bg">#FEFEFE</color>
+    <color name="search_bar_hint">#A5A5A5</color>
+    <color name="mainFilterItemTextColor">#434343</color>
+    <!--Colors-->
+    <color name="light_gray">#dbdbdb</color>
+    <color name="gray">#7e7e7e</color>
+    <color name="gray_transparent">#c37e7e7e</color>
+    <color name="semi_gray">#979797</color>
+    <color name="dark_gray">#696969</color>
+    <color name="bg_color">#f7f7f7</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black_effective">#2a2a2a</color>
+    <color name="shadow">#d0d8dc</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="translucent_white">#88ffffff</color>
+    <color name="fb">#3b5998</color>
+    <color name="google">#d34836</color>
+
+    <!--Design colors-->
+    <color name="red_dark">#F06423</color>
+    <color name="red_dark2">#D85A1B</color>
+    <color name="cyan_light">#c9ebee</color>
+    <color name="cyan">#b5e3e7</color>
+    <color name="cyan_dark">#70BDC6</color>
+    <color name="navy_blue">#214258</color>
+    <color name="navy_blue_dark">#1C3A4E</color>
+    <color name="light_green">#78DC96</color>
+    <color name="light_blue">#55C8F0</color>
+    <color name="blue_black_dark">#13171d</color>
+    <color name="blue_black_light">#516179</color>
+    <color name="blue_grey_light">#A5B4C8</color>
+    <color name="orange">#FFA500</color>
+    <color name="yellow">#fff44f</color>
+    <color name="no_internet_bg">#893124</color>
+
+    <color name="background_color_activity">@color/colorPrimary</color>
+    <color name="background_color_light">@color/text_color_light</color>
+    <color name="background_color_dark">@color/black</color>
+    <color name="background_color_button_primary">#ff5a5f</color>
+    <color name="text_color_dark">#505050</color>
+    <color name="text_color_accent">#008489</color>
+    <color name="text_color_accent_light">#ACD5D7</color>
+    <color name="text_color_light">@color/white</color>
+    <color name="text_color_light_dark">@color/grey</color>
+    <color name="text_color_home_title">#8D0E3D</color>
+    <color name="text_color_bottom_bar_item_selected">#FD8286</color>
+    <color name="text_color_bottom_bar_item_idle">#5D5D5D</color>
+</resources>
